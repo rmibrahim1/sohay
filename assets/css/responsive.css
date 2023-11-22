@@ -5,6 +5,10 @@
     .logo a img {
         max-width: 120px;
     }
+    .footer-area {
+        padding: 20px;
+        padding-bottom: 0;
+    }
 }
 
 @media screen and (max-width: 767px) {
@@ -44,4 +48,14 @@
 
 @media screen and (max-width: 400px) {
     .navigation ul li a {padding: 5px 10px;font-size: 14px; margin-right: 5px;}
+}
+
+@media screen and (min-width: 1200px) {
+    .content-wrapper .content {
+        max-width: 1050px;
+        margin: 30px auto;
+        box-shadow: 3px 5px 40px 17px rgb(0 0 0 / 5%);
+        padding: 20px 30px;
+        border-radius: 4px;
+    }
 }
