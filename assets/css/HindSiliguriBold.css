@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HindSiliguriBold';
+    src: url('../fonts/HindSiliguriBold.eot');
+    src: url('../fonts/HindSiliguriBold.eot') format('embedded-opentype'),
+         url('../fonts/HindSiliguriBold.woff2') format('woff2'),
+         url('../fonts/HindSiliguriBold.woff') format('woff'),
+         url('../fonts/HindSiliguriBold.ttf') format('truetype'),
+         url('fonts..//HindSiliguriBold.svg#HindSiliguriBold') format('svg');
+}
